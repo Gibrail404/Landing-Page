@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple Stopwatch web application created using HTML, CSS, and JavaScript. The Stopwatch allows users to measure elapsed time with start, stop, and reset functionality.
+This repository contains a simple landing page created using HTML, CSS. 
 
 ## Features
 
@@ -11,17 +11,17 @@ HTML, CSS: The project is built using standard web technologies, making it acces
 
 ## Installation
 
-To run the Stopwatch project locally, follow these steps:
+To run this project locally, follow these steps:
 
 Clone the repository:
 
 git clone https://github.com/Gibrail404/Landing-Page.git
 
 ## Demo
-You can view a live demo of the landing-Page (click [here]( https://gibrail404.github.io/Landing-Page/)).
+You can view a live demo of the landing-Page [click here]( https://gibrail404.github.io/Landing-Page/)).
 
 ## License
-This Stopwatch Project is licensed under the MIT License.
+This Project is licensed under the MIT License.
 
 ## Acknowledgments
 Special thanks to the developers and communities behind the technologies used in this project.
